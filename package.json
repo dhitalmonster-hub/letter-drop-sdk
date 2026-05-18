@@ -1,6 +1,6 @@
 {
   "name": "letter-drop-sdk",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "description": "TypeScript SDK for daily letter-drop puzzles on the Stacks blockchain — submit letters, guess words, score chains.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
